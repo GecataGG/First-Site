@@ -1,1 +1,1 @@
-First site vanila html/css/js
+First site - vanila html/css/js
